@@ -1,2 +1,2 @@
 # pemilu18
-web based application for election
+aplikasi berbasis web untuk memnunjang pemilu online
