@@ -1,14 +1,14 @@
-# Team Members
 
-## Team ID : C23 - PS346
+
+## Team ID : CH2-PS268
 
 <br>
 
 | Name                          | Student ID  | Path                 |
 | ----------------------------- | ----------- | -------------------- |
-| Kemas Rafly Omar Thoriq       | A181DSX1010 | Mobile Development   |
-| Prasetyo Yermia Damongi       | A364DSX1019 | Mobile Development   |
-| Alfian Dorif Murtadlo         | C305DKX4253 | Cloud Computing      |
-| Ghulam Izzul Fuad             | C181DSX0601 | Cloud Computing      |
-| Muhammad Fadel Akbar Putra    | M181DSX1334 | Machine Learning     |
-| Naziva Septian                | M309DSY1326 | Machine Learning     |
+| Ryan Reynickha Fatullah       | M296BSY1298 | Machine Learning     |
+| Syifa Nur'Afni Hidayat        | M494BSX0800 | Machine Learning     |
+| Adinda Putri Budi Saraswati   | C296BSX3753 | Cloud Computing      |
+| Zandy Qois                    | C296BSY4285 | Cloud Computing      |
+| Tri Putra Fauzan H. Radji     | A494BSY2646 | Mobile Development   |
+| M. Hanif Fajar Anggara        | A548BKY4469 | Mobile Development   |
